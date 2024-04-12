@@ -204,6 +204,41 @@ session_start();
                       </form>
                 </div>
             </div>
+            <div id="contact" class="parallax-window relative" data-parallax="scroll" data-image-src="img/antique-cafe-bg-04.jpg">
+    <div class="container mx-auto tm-container pt-24 pb-48 sm:py-48">
+        <div class="flex flex-col lg:flex-row justify-around items-center lg:items-stretch">
+            <div class="flex-1 rounded-xl px-10 py-12 m-5 bg-white bg-opacity-80 tm-item-container">
+                <h2 class="text-3xl mb-6 tm-text-green">Contact Us</h2>
+                <!-- Newsletter Signup Form -->
+                <form action="/subscribe" method="post" class="mb-6">
+                    <label for="email" class="block mb-2">Subscribe to our Newsletter:</label>
+                    <input type="email" id="email" name="email" required class="border border-gray-300 rounded px-4 py-2 w-full" placeholder="Your email address">
+                    <button type="submit" class="mt-2 bg-green-500 hover:bg-green-600 text-white font-bold py-2 px-4 rounded">Subscribe</button>
+                </form>
+                <!-- Location Information -->
+                <div class="mb-6">
+                    <h3 class="text-xl mb-2">Location:</h3>
+                    <p>123 Main Street, Cityville, Country</p>
+                </div>
+                <!-- Social Media Links -->
+                <div class="mb-6">
+                    <h3 class="text-xl mb-2">Follow Us:</h3>
+                    <ul class="flex">
+                        <li class="mr-4"><a href="#" class="text-gray-600 hover:text-green-500"><i class="fab fa-facebook"></i></a></li>
+                        <li class="mr-4"><a href="#" class="text-gray-600 hover:text-green-500"><i class="fab fa-twitter"></i></a></li>
+                        <li><a href="#" class="text-gray-600 hover:text-green-500"><i class="fab fa-instagram"></i></a></li>
+                    </ul>
+                </div>
+                <!-- Phone Number -->
+                <div>
+                    <h3 class="text-xl mb-2">Phone:</h3>
+                    <p>+1 123-456-7890</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
             <!-- <div id="contact" class="parallax-window relative" data-parallax="scroll" data-image-src="img/antique-cafe-bg-04.jpg">
                 <div class="container mx-auto tm-container pt-24 pb-48 sm:py-48">
                     <div class="flex flex-col lg:flex-row justify-around items-center lg:items-stretch">
@@ -252,9 +287,7 @@ session_start();
                 </div>
             </div>
         </div>        
-    </div> -->
-
-    
+    </div> -->    
     <footer class="tm-bg-gray pt-5 pb-3 tm-text-gray tm-footer">
         <div class="container mx-auto text-center">
             <div class="text-sm">
