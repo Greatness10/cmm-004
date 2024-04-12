@@ -81,9 +81,9 @@ session_start();
                     <div class="flex items-start mb-6 tm-menu-item">
                         <img src="img/menu-item-1.jpg" alt="Image" class="rounded-md">
                         <div class="ml-3 sm:ml-6">
-                            <h3 class="text-lg sm:text-xl mb-2 sm:mb-3 tm-text-yellow">Hair</h3>
-                            <div class="text-white text-md sm:text-lg font-light mb-1">S $8.50</div>
-                            <div class="text-white text-md sm:text-lg font-light">L $10.50</div>
+                            <h3 class="text-lg sm:text-xl mb-2 sm:mb-3 tm-text-yellow">Faded</h3>
+                            <div class="text-white text-md sm:text-lg font-light mb-1">Children £5.50</div>
+                            <div class="text-white text-md sm:text-lg font-light">Adult £10.50</div>
                         </div>                    
                     </div>
                     <div class="flex items-start mb-6 tm-menu-item">
@@ -176,12 +176,11 @@ session_start();
                 <div class="flex-1 rounded-xl px-10 py-12 m-5 bg-white bg-opacity-80 tm-item-container">
                     <h2 class="text-3xl mb-6 tm-text-green">Contact Us</h2>
                     <p class="mb-6 text-lg leading-8">
-                        Praesent tellus magna, consectetur sit amet volutpat eu, pulvinar vitae sem.
-                        Sed ultrices. bg white 80% alpha. btn #066    
+                    Connect effortlessly with our hair salon through our "Contact Us" feature on the web app. Reach out for inquiries, feedback, or assistance, ensuring prompt and personalized communication for an exceptional experience. 
                     </p>
                     <p class="mb-10 text-lg">
-                        <span class="block mb-2">Tel: <a href="tel:+44 (0) 1224 262777" class="hover:text-yellow-600 transition">+44 (0) 1224 262777</a></span>
-                        <span class="block">Email: <a href="mailto:ITServiceDesk@rgu.ac.uk" class="hover:text-yellow-600 transition">ITServiceDesk@rgu.ac.uk</a></span>                        
+                        <span class="block mb-2">Tel: <a href="tel:+44 (0) 7909430418" class="hover:text-yellow-600 transition">+44 (0) 7909430418</a></span>
+                        <span class="block">Email: <a href="mailto:oyinkansolagreatness@gmail.com">oyinkansolagreatness@gmail.com</a></span>                        
                     </p>
                     <div class="text-center">
                         <a href="https://www.bing.com/maps?osid=83e4289d-8880-4adc-b651-0b4f2be184ba&cp=57.118408~-2.14596&lvl=16&pi=0&imgid=e7cd4a01-89d9-4bff-866a-01e2d7008da8&v=2&sV=2&form=S00027" class="inline-block text-white text-2xl pl-10 pr-12 py-6 rounded-lg transition tm-bg-green">
@@ -205,31 +204,31 @@ session_start();
     <div class="container mx-auto tm-container pt-24 pb-48 sm:py-48">
         <div class="flex flex-col lg:flex-row justify-around items-center lg:items-stretch">
             <div class="flex-1 rounded-xl px-10 py-12 m-5 bg-white bg-opacity-80 tm-item-container">
-                <h2 class="text-3xl mb-6 tm-text-green">Contact Us</h2>
-                <!-- Newsletter Signup Form -->
+                <h2 class="text-3xl mb-6 tm-text-green">Get in Touch</h2>
+                
                 <form action="/subscribe" method="post" class="mb-6">
                     <label for="email" class="block mb-2">Subscribe to our Newsletter:</label>
                     <input type="email" id="email" name="email" required class="border border-gray-300 rounded px-4 py-2 w-full" placeholder="Your email address">
                     <button type="submit" class="mt-2 bg-green-500 hover:bg-green-600 text-white font-bold py-2 px-4 rounded">Subscribe</button>
                 </form>
-                <!-- Location Information -->
+                
                 <div class="mb-6">
                     <h3 class="text-xl mb-2">Location:</h3>
-                    <p>123 Main Street, Cityville, Country</p>
+                    <p>AB10 7AQ Garthdee House, Aberdeen, Scotland, United Kingdom</p>
                 </div>
-                <!-- Social Media Links -->
+                
                 <div class="mb-6">
                     <h3 class="text-xl mb-2">Follow Us:</h3>
                     <ul class="flex">
-                        <li class="mr-4"><a href="#" class="text-gray-600 hover:text-green-500"><i class="fab fa-facebook"></i></a></li>
-                        <li class="mr-4"><a href="#" class="text-gray-600 hover:text-green-500"><i class="fab fa-twitter"></i></a></li>
-                        <li><a href="#" class="text-gray-600 hover:text-green-500"><i class="fab fa-instagram"></i></a></li>
+                        <li class="mr-4"><a href="https://www.facebook.com" target="_blank"><i class="fab fa-facebook"></i></a></li>
+                        <li class="mr-4"><a href="https://www.twitter.com" target="_blank"><i class="fab fa-twitter"></i></a></li>
+                        <li><a href="https://www.instagram.com" target="_blank"><i class="fab fa-instagram"></i></a></li>
                     </ul>
                 </div>
                 <!-- Phone Number -->
                 <div>
                     <h3 class="text-xl mb-2">Phone:</h3>
-                    <p>+1 123-456-7890</p>
+                    <p>+44 (0) 7909430418</p>
                 </div>
             </div>
         </div>
