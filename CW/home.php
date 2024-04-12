@@ -13,9 +13,9 @@ session_start();
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Raleway:wght@300;400;500;600&family=Oswald:wght@600&display=swap" rel="stylesheet">
-    <link rel="stylesheet" href="css/all.min.css"> 
-    <link rel="stylesheet" href="css/tailwind.css">
-    <link rel="stylesheet" href="css/tooplate-antique-cafe.css">
+    <link rel="stylesheet" href="css/min.css"> 
+    <link rel="stylesheet" href="css/mane.css">
+    <link rel="stylesheet" href="css/the-mane.css">
 
 </head>
 <body>    
