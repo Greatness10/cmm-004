@@ -169,7 +169,7 @@ session_start();
         </div>        
     </div>
     
-    <div id="contact" class="parallax-window" data-parallax="scroll" data-image-src="img/antique-cafe-bg-04.jpg">
+    <div id="contact" class="parallax-window" data-parallax="scroll" data-image-src="Images\p1.jpg">
         <div class="container mx-auto tm-container pt-24 pb-48 sm:py-48">
             <div class="flex flex-col lg:flex-row justify-around items-center lg:items-stretch">
                 <div class="flex-1 rounded-xl px-10 py-12 m-5 bg-white bg-opacity-80 tm-item-container">
@@ -199,7 +199,7 @@ session_start();
                       </form>
                 </div>
             </div>
-            <div id="contact" class="parallax-window relative" data-parallax="scroll" data-image-src="img/antique-cafe-bg-04.jpg">
+            <div id="contact" class="parallax-window relative" data-parallax="scroll" data-image-src="Images\p1.jpg">
     <div class="container mx-auto tm-container pt-24 pb-48 sm:py-48">
         <div class="flex flex-col lg:flex-row justify-around items-center lg:items-stretch">
             <div class="flex-1 rounded-xl px-10 py-12 m-5 bg-white bg-opacity-80 tm-item-container">
