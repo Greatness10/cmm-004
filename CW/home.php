@@ -56,9 +56,8 @@ session_start();
                 </div>    
                 <div class="bg-black bg-opacity-70 p-10 mb-5">
                     <p class="text-white leading-8 text-sm font-light">
-                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Quibusdam aperiam neque et earum maiores quos necessitatibus, 
-                        assumenda sit consequatur vitae, hic qui. Aut voluptatibus facilis vel incidunt nisi. Fugit, quasi.
-                        If you have any question, please <a rel="nofollow" href="https://www.tooplate.com/contact" target="_parent">send us a message</a>. </p>
+                    A user-friendly web application facilitating hair salon appointments, service exploration, and efficient management, enhancing both customer experience and salon operations seamlessly.
+                        If you have any question, please <a rel="nofollow" href="mailto:oyinkansolagreatness@gmail.com"> send us a message</a>. </p>
                 </div>
                 <div class="text-center">
                     <div class="inline-block">
@@ -157,9 +156,7 @@ session_start();
                 <div class="bg-white bg-opacity-80 p-12 pb-14 rounded-xl mb-5">
                     <h2 class="mb-6 tm-text-green text-4xl font-medium">Book Now</h2>
                     <p class="mb-6 text-base leading-8">
-                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorum quibusdam, architecto eos
-                         assumenda animi veniam est, 
-                         quam possimus eveniet veritatis quod, labore fugiat modi voluptatum blanditiis minima nobis placeat explicabo?
+                    Easily schedule appointments via our intuitive hair salon web app. Browse services, select preferred stylists, choose convenient time slots, and receive instant confirmations, streamlining the booking process for seamless convenience.
                     </p>
                     <p class="text-base leading-8">
                         Please use the form below to make your reservation or contact us directly for any inquiries or special requests.
