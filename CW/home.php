@@ -71,7 +71,7 @@ session_start();
         </div>        
     </div>
     
-    <div id="services" class="parallax-window" data-parallax="scroll" data-image-src="img/antique-cafe-bg-02.jpg">
+    <div id="services" class="parallax-window" data-parallax="scroll" data-image-src="Images\p1.jpg">
         <div class="container mx-auto tm-container py-24 sm:py-48">
             <div class="text-center mb-16">
                 <h2 class="bg-white tm-text-brown py-6 px-12 text-4xl font-medium inline-block rounded-md">Our Styling list</h2>
@@ -79,7 +79,7 @@ session_start();
             <div class="flex flex-col lg:flex-row justify-around items-center">
                 <div class="flex-1 m-5 rounded-xl px-4 py-6 sm:px-8 sm:py-10 tm-bg-brown tm-item-container">
                     <div class="flex items-start mb-6 tm-menu-item">
-                        <img src="img/menu-item-1.jpg" alt="Image" class="rounded-md">
+                        <img src="Images\faded.jpg" alt="Image" class="cut_thumbnail">
                         <div class="ml-3 sm:ml-6">
                             <h3 class="text-lg sm:text-xl mb-2 sm:mb-3 tm-text-yellow">Faded</h3>
                             <div class="text-white text-md sm:text-lg font-light mb-1">Children £5.50</div>
@@ -87,27 +87,27 @@ session_start();
                         </div>                    
                     </div>
                     <div class="flex items-start mb-6 tm-menu-item">
-                        <img src="img/menu-item-2.jpg" alt="Image" class="rounded-md">
+                        <img src="Images\buzz.jpeg" alt="Image" class="cut_thumbnail">
                         <div class="ml-3 sm:ml-6">
-                            <h3 class="text-lg sm:text-xl mb-2 sm:mb-3 tm-text-yellow">Hair</h3>
-                            <div class="text-white text-md sm:text-lg font-light mb-1">S $9.50 . BG #544639</div>
-                            <div class="text-white text-md sm:text-lg font-light">L $12.50</div>
+                            <h3 class="text-lg sm:text-xl mb-2 sm:mb-3 tm-text-yellow">Buzz cut</h3>
+                            <div class="text-white text-md sm:text-lg font-light mb-1">Children £5.50</div>
+                            <div class="text-white text-md sm:text-lg font-light">Adult £10.50</div>
                         </div>                    
                     </div>
                     <div class="flex items-start mb-6 tm-menu-item">
-                        <img src="img/menu-item-3.jpg" alt="Image" class="rounded-md">
+                        <img src="Images\blow.webp" alt="Image" class="cut_thumbnail">
                         <div class="ml-3 sm:ml-6">
-                            <h3 class="text-lg sm:text-xl mb-2 sm:mb-3 tm-text-yellow">Hair #FC6</h3>
-                            <div class="text-white text-md sm:text-lg font-light mb-1">M $11.75</div>
-                            <div class="text-white text-md sm:text-lg font-light">L $14.75</div>
+                            <h3 class="text-lg sm:text-xl mb-2 sm:mb-3 tm-text-yellow">Blowout</h3>
+                            <div class="text-white text-md sm:text-lg font-light mb-1">Children £5.50</div>
+                            <div class="text-white text-md sm:text-lg font-light">Adult £10.50</div>
                         </div>                    
                     </div>
                     <div class="flex items-start mb-6 tm-menu-item">
-                        <img src="img/menu-item-4.jpg" alt="Image" class="rounded-md">
+                        <img src="Images\bald.jpeg" alt="Image" class="cut_thumbnail">
                         <div class="ml-3 sm:ml-6">
-                            <h3 class="text-lg sm:text-xl tm-text-yellow mb-1">Hair</h3>
-                            <h3 class="text-lg sm:text-xl mb-2 sm:mb-3 tm-text-yellow">Hair</h3>
-                            <div class="text-white text-md sm:text-lg font-light">Size M $11.75 . L $14.75</div>
+                            <h3 class="text-lg sm:text-xl mb-2 sm:mb-3 tm-text-yellow">Bald</h3>
+                            <div class="text-white text-md sm:text-lg font-light mb-1">Children £5.50</div>
+                            <div class="text-white text-md sm:text-lg font-light">Adult £10.50</div>
                         </div>                    
                     </div>
                 </div>

@@ -51,6 +51,9 @@ footer span a { color: #FFF; }
 .tm-text-brown {
     color: #544639;
 }
+.cut_thumbnail{
+    width: 80px;
+}
 
 .tm-text-green {
     color: #006666;
