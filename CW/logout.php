@@ -1,6 +1,6 @@
 <?php
 session_start();
 session_destroy();
-header("Location: Clone.php");
+header("Location: home.php");
 exit;
 ?>

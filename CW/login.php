@@ -109,7 +109,7 @@ if(isset($_POST['loginemail']) && isset($_POST['loginpass']) ){
         session_start();
         $_SESSION['loggedin'] = "true";
         $_SESSION['name'] = $row[2];
-        header("Location: Clone.php");
+        header("Location: home.php");
     } 
 
 
